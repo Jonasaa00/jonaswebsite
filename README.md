@@ -14,8 +14,8 @@ To start the site vscode live server
 
 ##### heading 5
 
-``bash 
-const myname = "jonas";
+```bash 
+const myName = "jonas";
 ```
 
 
